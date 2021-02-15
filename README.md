@@ -1,6 +1,6 @@
 # WittyMathematics
 # 开源的数学书
-pdf文件： 正文点击这里下载 <a href="https://github.com/kastaineibum/WittyMathematics/blob/main/Witty%20Mathematics%20Book.pdf">简体中文版</a><a href="https://github.com/kastaineibum/WittyMathematics/blob/main/Witty%20Mathematics%20Traditional%20Chinese.pdf">繁體中文版</a> 繁體中文版的更新略落后于简体中文版，请见谅。<br/>
+pdf文件： 正文点击这里下载 <a href="https://github.com/kastaineibum/WittyMathematics/blob/main/Witty%20Mathematics%20Book.pdf">简体中文版</a>  <a href="https://github.com/kastaineibum/WittyMathematics/blob/main/Witty%20Mathematics%20Traditional%20Chinese.pdf">繁體中文版</a> 繁體中文版的更新略落后于简体中文版，请见谅。<br/>
 使用方法： 所有文件下载至同一目录，用Jupyter Lab或者Jupyter notebook打开ipynb文件即可。<br/>
 ## 目录
 ##### 第0节 运算、初等函数、函数图形及其变换
