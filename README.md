@@ -39,3 +39,5 @@ pdf文件： 书在这里 <a href="https://github.com/kastaineibum/WittyMathemat
 ###### 参数方程
 ###### 常用的双曲函数公式
 ###### 反双曲函数
+</br>
+Some people say that the spelling here is missing an n, but it is not. The name "chestnut tree" on github is in Bulgarian, while the one on this website is in German.
